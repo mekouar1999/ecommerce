@@ -1,3 +1,26 @@
 h1{
     text-align: center;
 }
+
+.connexion{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    gap: 30px;
+}
+
+.connexionmaman{
+    width: 100%;
+    display: flex
+;
+    justify-content: center;
+}
+
+input{
+    padding: 7px 8px;
+    border: none;
+    background-color: beige;
+    border-radius: 10px;
+    color: #e45050;
+    box-shadow: -1px 0px 11px 5px;
+}

@@ -1,1 +1,1 @@
-alert('javascript foncitonne')
+// alert('javascript foncitonne')
